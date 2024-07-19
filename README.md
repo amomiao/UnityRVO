@@ -1,5 +1,5 @@
-1.导入后报错:error CS0246: The type or namespace name 'BurstCompileAttribute' could not be found (are you missing a using directive or an assembly reference?)等有Burst内容的。 <br>
-(1)删掉TheRVO/Scripts/RVOJob文件夹,然后删除FixNum和FixVector3的报错特性。 <br>
+1.导入后报错 BurstCompileAttribute 等有Burst内容的。 <br>
+(1)删掉TheRVO/Scripts/RVOJob文件夹,然后删除FixNum和FixVector3的报错特性 <br>
 (2)或者导入JobSystem相关的Pack <br>
 
 2.打开场景TheRVO/Scenes/RVO <br>
